@@ -1,5 +1,5 @@
 # Dise-os_Experimentales
-Proyecto Métodos Estadísticos (Diseño experimental)
+Proyecto : Métodos Estadísticos (Diseño experimental)
 
 Este repositorio fue creado  con el fin de aportar codigos en python a manera de nootboks los cuales ayudaran mucho a resolver el tema de Diseño Experimental,
 sobre todo para que mis compañeros y futuros estudiantes del curso "Metodos Estadisticos" que tengan la intención y curiosidad de
